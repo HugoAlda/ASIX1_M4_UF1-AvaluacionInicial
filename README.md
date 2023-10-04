@@ -18,14 +18,14 @@
 
 5. [Herramientas de Google:](https://www.google.com/intl/es-419/chrome/browser-tools/ "Herramientas de Google")
 
-|Aplicaciones.|Visto.|
-|----------------|:-------------:|---------------:|
-|Google Docs|
-|Google Slides|
-|Google Sheets|
-|Google Calendar|
-|Google Meet|
-|...|...|
+    |Aplicaciones.|Visto.|
+    |----------------|:-------------:|---------------:|
+    |Google Docs||
+    |Google Slides|
+    |Google Sheets|
+    |Google Calendar|
+    |Google Meet|
+    |...|...|
 
 6. ¿Qués es HTML?
 
@@ -40,7 +40,7 @@
             <meta name="viewport" content="width=device-width, initial-scale=1.0">
         </head>
         <body>
-    
+
         </body>
     </html>
     ```
