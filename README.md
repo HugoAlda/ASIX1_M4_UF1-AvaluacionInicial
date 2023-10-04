@@ -50,4 +50,4 @@ Respuesta.
 
 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
 
-![Flujo de trabajo (navegador, petición, servidor y respuesta):](https://www.google.com/url?sa=i&url=https%3A%2F%2Fhelpx.adobe.com%2Fes%2Fdreamweaver%2Fusing%2Fweb-applications.html&psig=AOvVaw29iFKygqKVALnw722QKeM3&ust=1696505629279000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCMDEwJCm3IEDFQAAAAAdAAAAABAD "Flujo de trabajo")
+![Flujo de trabajo (navegador, petición, servidor y respuesta):](https://helpx.adobe.com/content/dam/help/es/dreamweaver/using/web-applications/jcr%3Acontent/main-pars/image_0/ds_process_static.png.img.png "Flujo de trabajo")
