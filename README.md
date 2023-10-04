@@ -32,7 +32,6 @@ Respuesta.
 Respuesta.
 
 ```
-
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -44,13 +43,11 @@ Respuesta.
 
     </body>
 </html>
-
-´´´
-
-sgfbertgew
-
+```
 7. ¿Qué es CSS?
 
 Respuesta.
 
 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
+
+!(C:\Users\7841j\OneDrive\Imatges\Screenshots "Flujo de trabajo (navegador, petición, servidor y respuesta)")
