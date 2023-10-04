@@ -27,7 +27,7 @@
     |Google Meet|
     |...|...|
 
-6. ¿Qués es HTML?
+6. ¿Qués es ``HTML``?
 
     Respuesta.
 
@@ -44,7 +44,7 @@
         </body>
     </html>
     ```
-7. ¿Qué es CSS?
+7. ¿Qué es ``CSS``?
 
     Respuesta.
 
