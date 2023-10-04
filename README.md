@@ -24,7 +24,7 @@
     | Google Slides     |                | 
     | Google Sheets     |                | 
     | Google Calendar   |                | 
-    | Google Meet       |                | 
+    | Google Meet       |!["C:\Users\7841j\OneDrive\Imatges\Screenshots\Captura de pantalla 2023-10-04 134508.png"]| 
     | ...               | ...            |
 
 
