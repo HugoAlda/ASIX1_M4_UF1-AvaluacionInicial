@@ -23,8 +23,8 @@
     | Google Docs       |✔️| 
     | Google Slides     |✔️| 
     | Google Sheets     |✔️| 
-    | Google Calendar   || 
-    | Google Meet       || 
+    | Google Calendar   |📆| 
+    | Google Meet       |💻| 
     | ...               |...|
 
 
