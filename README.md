@@ -18,6 +18,9 @@
 
 5. [Herramientas de Google:](https://www.google.com/intl/es-419/chrome/browser-tools/ "Herramientas de Google")
 
+|Primera Col|Segunda Col|3 Col|
+|----------------|:-------------:|---------------:|
+
 |Aplicaciones|Visto|
 |------------------|
 |Google Docs|[]|
