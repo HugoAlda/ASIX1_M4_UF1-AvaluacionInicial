@@ -2,35 +2,35 @@
 
 1. ¿Qué es una páguina web?
 
-    Respuesta.
+    Una página web es un documento electrónico que forma parte de un sitio web y se puede acceder a través de un navegador web.
 
 2. ¿Qué es un sitio web?
 
-    Respuesta.
+    Un sitio web es un conjunto de páginas web relacionadas entre sí y que comparten un dominio común.
 
 3. ¿Qué es una aplicación web?
 
-    Respuesta.
+    Es un software que se accede a través de un navegador web.
 
 4. ¿Qué es una herramienta ofimática?
 
-    Respuesta.
+    Básicamente, es un conjunto de programas o aplicaciones diseñadas para realizar tareas de oficina.
 
 5. [Herramientas de Google:](https://www.google.com/intl/es-419/chrome/browser-tools/ "Herramientas de Google")
 
     | Aplicaciones      | Visto.          |
     | ------------------|:---------------:| 
-    | Google Docs       |                | 
-    | Google Slides     |                | 
-    | Google Sheets     |                | 
-    | Google Calendar   |                | 
-    | Google Meet       |!["C:\Users\7841j\OneDrive\Imatges\Screenshots\Captura de pantalla 2023-10-04 134508.png"]| 
-    | ...               | ...            |
+    | Google Docs       || 
+    | Google Slides     || 
+    | Google Sheets     || 
+    | Google Calendar   || 
+    | Google Meet       || 
+    | ...               |...|
 
 
 6. ¿Qués es ``HTML``?
 
-    Respuesta.
+    HTML es un lenguaje de marcado que se utiliza para estructurar el contenido de una página web, como textos, imágenes y enlaces.
 
     ```
     <!DOCTYPE html>
@@ -47,7 +47,7 @@
     ```
 7. ¿Qué es ``CSS``?
 
-    Respuesta.
+    CSS, por otro lado, es un lenguaje de estilo que se utiliza para darle formato y diseño a una página web, controlando aspectos como colores, fuentes y diseño visual.
 
 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
 
