@@ -2,7 +2,8 @@
 
 1. ¿Qué es una páguina web?
 
-    Una página web es un documento electrónico que forma parte de un sitio web y se puede acceder a través de un navegador web.
+    <span style="color:red">Una página web es un documento electrónico que forma parte de un sitio web y se puede acceder a través de un navegador web.</span>
+
 
 2. ¿Qué es un sitio web?
 
